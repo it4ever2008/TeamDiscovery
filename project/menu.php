@@ -11,8 +11,7 @@
                     if(e.which==13){ 
                     window.location="view.php?search="+x;
                     //alert($('#sea').val());
-                    }
-                    
+                    } 
                 });
     
             });
@@ -52,7 +51,7 @@
             <div style="float: right;">
                 <div class="search" id="serchin" style="padding-top: 4px; padding-right: 10px;">
                     <span>SEARCH:</span>
-                    <input type="text"  id="sea" value="Find your Project" />
+                    <input type="text"  id="sea" value="Search"/>
                 </div>
 
                 <div style="clear: both;"></div>

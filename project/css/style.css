@@ -59,6 +59,13 @@ a{
     border-radius: 10px 10px 10px 10px;
     width: 200px;
 }
+input{
+    padding: 5px;
+    border-color:black;
+    border: 2px;
+    border-radius: 10px 10px 10px 10px;
+    width: 200px;
+}
 .search > span{
     color: white;
     font-size: 14px;
