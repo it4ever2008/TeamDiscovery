@@ -1,0 +1,43 @@
+body{
+    font-family: tahoma;
+    font-size: 12px;
+    color: #004040;   
+}
+input{
+    font-family: tahoma;
+    font-size: 12px;
+    color: #004040; 
+    
+}
+.imgv{
+        width: 150px;
+        height: 40px;
+        border-color: #0080C0;
+        border-style: outset;   
+}
+img{
+    width: 30px;
+    height: 30px;
+}
+.imgv{
+    width: 30px;
+    height: 30px;
+}
+.msg{
+    font-size:x-large;
+    color:white;
+}
+.php{
+    font-size: large;
+    color: green;
+}
+
+.maindiv div{
+    padding-top: 10px;
+    
+}
+
+.sub{
+    
+    background:#C9C6CC;
+}
