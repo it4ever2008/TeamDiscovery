@@ -14,6 +14,7 @@
         </script>
     </head>
     <body>
+    <div align="left" style="margin-left: 230px;">
     my home  page  
     <div>   
      <a href="project.php">project</a>
@@ -22,7 +23,7 @@
     
     
         </div>
-
+</div>
            
 
 
