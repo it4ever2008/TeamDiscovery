@@ -14,18 +14,10 @@
         </script>
     </head>
     <body>
-    <div align="left" style="margin-left: 230px;">
-    my home  page  
-    <div>   
-     <a href="project.php">project</a>
-    <div> <? include("search.php");?>  </div>
-    
-    
-    
+        <div>
+            <div><? include("menu.php");?></div>
+            <div style="clear: both;"></div>
+            <div>my home  page</div>
         </div>
-</div>
-           
-
-
     </body>
 </html>

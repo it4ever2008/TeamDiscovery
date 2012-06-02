@@ -21,8 +21,10 @@ function getRandomstr($length){
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Account</title>
         <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script> 
     </head>
     <body> 
+    <div><? include("menu.php");?></div>
         <div>
              <table border="0" width="90%" cellpadding="0" cellspacing="0" id="celebs" >
                             <thead>
